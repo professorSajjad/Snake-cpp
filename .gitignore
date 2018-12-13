@@ -5,3 +5,4 @@
 /Snake/Snake.o
 Snake/ChessBoard.o
 Snake/Snake.exe
+Snake/.gitignore

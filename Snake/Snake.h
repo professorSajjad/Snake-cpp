@@ -3,7 +3,7 @@
 #include "ChessBoard.h"
 #include <conio.h>
 
-class Snake:public ChessBoard{
+class Snake{
 public:
     int zb[2][100];
     long start;
